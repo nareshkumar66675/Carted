@@ -27,3 +27,6 @@ It is a multitier architecture centered around individual functionality.
 We plan to improve our model and continue to make it more reliable and accurate, 
 adding extensive security and privacy features, and also implementing a new GPS 
 feature which will guide the customer toward the location of the desired product in the store. 
+
+
+Created as part of Hackathon Project - HackKU 2019
