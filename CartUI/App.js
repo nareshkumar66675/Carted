@@ -4,7 +4,7 @@ var app = angular.module("CartedApp", []);
 app.service('RestCall', ['$http', function ($http) {
 
     //Update this url While hosting
-    var urlBase = 'http://10.104.172.51:50047/api/';
+    var urlBase = 'http://10.104.103.242:50047/api/';
 
     this.getCall = function (name){
         return $http.get(urlBase + name);
